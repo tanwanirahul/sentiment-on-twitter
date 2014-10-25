@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Dont push the csv file containing sentiments
+*.csv
